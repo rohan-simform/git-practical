@@ -1,1 +1,2 @@
-# git-practical
+# Git-practical
+Commit hook added.

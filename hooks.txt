@@ -1,0 +1,1 @@
+Empty messages are blocked.
